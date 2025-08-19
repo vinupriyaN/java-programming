@@ -8,5 +8,5 @@ public class Alphabets {
             System.out.println(ch+" ");
         }
     }
+    
 }
-
